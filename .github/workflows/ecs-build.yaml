@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  ECR_REPO: 292659698930.dkr.ecr.us-east-1.amazonaws.com/dev-2-tier-flask
+  ECR_REPO: <id>.dkr.ecr.us-east-1.amazonaws.com/dev-2-tier-flask
   AWS_REGION: us-east-1
 
 jobs:
